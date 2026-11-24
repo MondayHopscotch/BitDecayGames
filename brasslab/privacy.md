@@ -81,6 +81,11 @@ If this policy changes, the updated version will be posted on this page with
 a new effective date. If the Application ever begins collecting information,
 this policy will be updated before that happens.
 
+## Terms of Service
+
+Your use of the Application is also covered by the
+[Brass Lab Terms of Service](/brasslab/terms).
+
 ## Contact
 
 Questions about this policy or about privacy in Brass Lab:
