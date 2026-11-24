@@ -6,6 +6,7 @@ The bitDecay Games website, served by GitHub Pages (Jekyll, deployed from
 - `/` redirects to <https://bitdecaygames.itch.io/>.
 - `/brasslab/privacy` is Brass Lab's privacy policy (`brasslab/privacy.md`),
   the URL given to the Play Store and App Store.
+- `/brasslab/terms` is Brass Lab's terms of service (`brasslab/terms.md`).
 
 Pages use `_layouts/default.html`; a new one is a Markdown file with
 `layout: default`, a `title` and a `permalink`.
