@@ -1,0 +1,5 @@
+# GitHub Pages builds this with Jekyll (deploy from the main branch, root).
+title: bitDecay Games
+markdown: kramdown
+exclude:
+  - README.md
